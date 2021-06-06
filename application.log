@@ -1,0 +1,18 @@
+2021-05-26 19:30:36,699  INFO [main] TestBase:30 - initializing  chrome browser
+2021-05-26 19:30:38,819  INFO [main] TestBase:38 - launching JBK offline application
+2021-05-26 19:30:38,819  INFO [main] TestBase:34 - ready to navigate to the url: file:///D:/software/selenium/Offline%20website/index.html
+2021-05-26 19:30:39,611  INFO [main] TestBase:39 - Navigated to the url: file:///D:/software/selenium/Offline%20website/index.html
+2021-05-26 19:30:39,683  INFO [main] TestBase:43 - returning a initialized driver object
+2021-05-26 19:30:39,767  INFO [main] TestBase:77 - finding an element with name: 
+2021-05-26 19:30:39,767  INFO [main] TestBase:78 - By.id: email
+2021-05-26 19:30:39,836  INFO [main] TestBase:84 - found element with name: 
+2021-05-26 19:30:39,836  INFO [main] TestBase:85 - By.id: email
+2021-05-26 19:30:39,987  INFO [main] TestBase:77 - finding an element with name: 
+2021-05-26 19:30:39,987  INFO [main] TestBase:78 - By.id: password
+2021-05-26 19:30:40,035  INFO [main] TestBase:84 - found element with name: 
+2021-05-26 19:30:40,035  INFO [main] TestBase:85 - By.id: password
+2021-05-26 19:30:40,162  INFO [main] TestBase:77 - finding an element with name: Sign In
+2021-05-26 19:30:40,162  INFO [main] TestBase:78 - By.xpath: //button
+2021-05-26 19:30:40,218  INFO [main] TestBase:84 - found element with name: Sign In
+2021-05-26 19:30:40,219  INFO [main] TestBase:85 - By.xpath: //button
+2021-05-26 19:30:40,230  INFO [main] TestBase:90 - clicking on an element with name: Sign In
